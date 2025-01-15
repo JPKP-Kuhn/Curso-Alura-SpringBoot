@@ -14,7 +14,7 @@ public enum Categoria {
     AVENTURA("Adventure", "Aventura"),
     FANTASIA("Fantasy", "Fantasia"),
     FAROESTE("Western", "Faroeste"),
-    POLICIAL("Crime", "Policial"),
+    POLICIAL("Crime", "Crime"),
     GUERRA("War", "Guerra"),
     BIOGRAFIA("Biography", "Biografia"),
     FAMILIA("Family", "Família"),
